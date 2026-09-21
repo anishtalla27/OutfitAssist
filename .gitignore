@@ -1,0 +1,14 @@
+# API secrets — never commit this
+secrets.plist
+
+# Xcode
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
